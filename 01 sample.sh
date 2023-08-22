@@ -1,6 +1,6 @@
 ls
 ls -ltr
-cd
+ps -ef
 pwd
 uname
 uname -a
