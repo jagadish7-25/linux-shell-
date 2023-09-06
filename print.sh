@@ -1,4 +1,3 @@
 echo -e "\e[32m<<<<<<<<<<<<<< HELLO JACK     >>>>>>>>>>>>>\e[0m"
 
-
- yum install nginx >/tmp/nginx.log
+echo -e "\e[35m yum install nginx &>/tmp/nginx.log\e[0m"
