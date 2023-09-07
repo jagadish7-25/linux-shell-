@@ -4,4 +4,4 @@ greetings() {
   echo I am from india
 }
 
-grettings
+greetings
